@@ -5,7 +5,7 @@ Full Stack Developer | Front-End Developer
 ------------------------------------------
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [ajithtejag@gmail.comm](mailto:ajithtejag@gmail.comm)
+* ✉️  You can contact me at [ajithtejag@gmail.com](mailto:ajithtejag@gmail.com)
 * 🧠  I'm learning reactjs
 * 🤝  I'm open to collaborating on Web Application development
 * ⚡  I like to trekking
