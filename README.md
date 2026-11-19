@@ -2,7 +2,7 @@
 
 ### Full Stack Software Engineer | Python, TypeScript & AI Engineering
 
-- 🌍 Based in **Telangana, India**
+- 🌍 Based in **Hyderabad, India**
 - 💼 Full Stack Developer at **Remedo Clinitech Pvt. Ltd.**
 - 🛠️ Building **Python (FastAPI)** backends, **React / Next.js** web apps, and **RAG / LangGraph** AI systems
 - 📫 Reach me at **[ajithtejagorla@gmail.com](mailto:ajithtejagorla@gmail.com)**
